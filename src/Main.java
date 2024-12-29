@@ -1,7 +1,6 @@
-import Classes.Person;
-import Classes.School;
-import Classes.Student;
-import Classes.Teacher;
+import Resources.School;
+import Resources.Student;
+import Resources.Teacher;
 
 import java.io.File;
 import java.io.FileNotFoundException;

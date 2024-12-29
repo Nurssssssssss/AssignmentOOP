@@ -1,4 +1,4 @@
-package Classes;
+package Resources;
 
 public class Teacher extends Person
 {

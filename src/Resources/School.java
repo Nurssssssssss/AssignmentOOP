@@ -1,6 +1,4 @@
-package Classes;
-
-import org.w3c.dom.Text;
+package Resources;
 
 import java.util.ArrayList;
 
